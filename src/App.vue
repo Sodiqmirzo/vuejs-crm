@@ -1,10 +1,16 @@
 <template>
   <div id="app">
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut ad veritatis
+      iste, molestias maiores autem temporibus consequatur sed voluptatum harum
+      laborum! Exercitationem commodi, praesentium sapiente aspernatur sequi
+      iste expedita a.
+    </p>
     <!-- <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div> -->
-    <router-view/>
+    <router-view />
   </div>
 </template>
 
