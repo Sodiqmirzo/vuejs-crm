@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Lesson 4"
+git remote -v
+git push -f github master
